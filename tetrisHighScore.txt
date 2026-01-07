@@ -1,0 +1,3 @@
+ABC 100
+Hari 300
+shane 300
